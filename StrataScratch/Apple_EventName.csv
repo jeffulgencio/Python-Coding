@@ -1,0 +1,101 @@
+﻿user_id,occurred_at,event_type,event_name,location,device
+6991,9/6/2014 18:26,engagement,home_page,United States,iphone 5
+18851,29/8/2014 13:18,signup_flow,enter_info,Russia,asus chromebook
+14998,1/7/2014 12:47,engagement,login,France,hp pavilion desktop
+8186,23/5/2014 10:44,engagement,home_page,Italy,macbook pro
+9626,31/7/2014 17:15,engagement,login,Russia,nexus 7
+16460,24/7/2014 18:43,signup_flow,create_user,United States,samsung galaxy note
+10101,27/8/2014 5:54,engagement,home_page,Singapore,dell inspiron notebook
+2670,10/5/2014 10:03,engagement,like_message,United States,nexus 7
+8708,26/5/2014 10:42,engagement,send_message,Australia,macbook pro
+167,30/7/2014 19:39,engagement,view_inbox,United Arab Emirates,lenovo thinkpad
+12725,17/6/2014 8:03,engagement,home_page,Brazil,macbook pro
+14014,6/7/2014 16:24,engagement,view_inbox,Japan,macbook pro
+13536,18/6/2014 9:34,engagement,send_message,United States,nexus 5
+2663,13/6/2014 7:45,engagement,home_page,United States,nokia lumia 635
+8149,6/6/2014 15:35,engagement,like_message,Australia,samsung galaxy s4
+3152,20/5/2014 17:57,engagement,home_page,Venezuela,iphone 5
+11496,28/8/2014 7:45,engagement,view_inbox,United States,lenovo thinkpad
+2755,5/5/2014 14:14,engagement,view_inbox,France,samsung galaxy s4
+3422,3/7/2014 14:09,engagement,send_message,United States,kindle fire
+2360,2/6/2014 19:53,engagement,search_click_result_9,United States,iphone 4s
+10061,18/8/2014 9:32,engagement,view_inbox,Spain,macbook pro
+12740,21/5/2014 0:57,signup_flow,enter_email,United Kingdom,iphone 4s
+7849,16/6/2014 15:53,engagement,home_page,Japan,nexus 7
+1002,16/5/2014 9:33,engagement,view_inbox,Canada,iphone 5s
+11836,3/8/2014 16:12,engagement,send_message,United States,iphone 4s
+6836,1/8/2014 14:58,engagement,view_inbox,United Kingdom,ipad air
+6663,16/6/2014 12:04,engagement,like_message,Australia,asus chromebook
+14653,2/7/2014 13:40,engagement,login,Australia,macbook pro
+2719,17/8/2014 15:19,engagement,view_inbox,India,iphone 4s
+2670,11/5/2014 13:58,engagement,home_page,United States,iphone 5s
+3067,29/7/2014 7:24,engagement,home_page,Canada,iphone 5s
+5108,16/5/2014 14:41,engagement,like_message,Canada,samsung galaxy s4
+5874,31/7/2014 14:55,engagement,search_run,Russia,iphone 5
+2267,18/7/2014 9:57,engagement,search_autocomplete,Brazil,macbook pro
+3526,9/5/2014 12:49,engagement,home_page,United States,hp pavilion desktop
+10323,19/5/2014 17:08,engagement,view_inbox,Switzerland,hp pavilion desktop
+11824,20/5/2014 7:22,engagement,home_page,Saudi Arabia,ipad mini
+12396,14/5/2014 18:10,engagement,view_inbox,United Kingdom,hp pavilion desktop
+13056,12/8/2014 13:45,engagement,home_page,Germany,ipad air
+6493,4/5/2014 10:33,engagement,search_run,United States,iphone 5
+12047,25/5/2014 18:56,engagement,search_autocomplete,Austria,macbook air
+10516,22/7/2014 17:35,engagement,send_message,Singapore,dell inspiron notebook
+3076,8/8/2014 12:03,engagement,send_message,United States,dell inspiron notebook
+9863,11/7/2014 8:59,engagement,view_inbox,Philippines,acer aspire desktop
+9915,1/5/2014 9:34,engagement,view_inbox,Indonesia,macbook pro
+175,23/7/2014 9:32,engagement,home_page,Russia,iphone 4s
+10350,16/6/2014 15:28,engagement,home_page,United States,iphone 5
+9283,25/6/2014 13:47,engagement,search_click_result_3,Canada,dell inspiron notebook
+10394,27/5/2014 6:50,engagement,home_page,Japan,macbook pro
+13397,18/8/2014 15:04,engagement,view_inbox,Japan,macbook air
+1078,9/6/2014 17:46,engagement,home_page,Germany,ipad mini
+7393,8/8/2014 12:32,engagement,search_autocomplete,Japan,acer aspire desktop
+4765,29/8/2014 11:09,engagement,search_autocomplete,United States,macbook pro
+17067,4/8/2014 19:01,signup_flow,complete_signup,United States,lenovo thinkpad
+13597,5/6/2014 20:28,signup_flow,enter_email,Netherlands,nexus 5
+8258,8/5/2014 9:34,engagement,home_page,United States,samsung galaxy note
+10523,2/7/2014 9:16,engagement,like_message,Canada,samsumg galaxy tablet
+2242,3/8/2014 18:49,engagement,home_page,United Kingdom,iphone 5
+11595,15/7/2014 17:18,engagement,view_inbox,Mexico,hp pavilion desktop
+9985,28/7/2014 9:34,engagement,like_message,Sweden,ipad air
+15725,12/7/2014 18:41,engagement,view_inbox,Japan,lenovo thinkpad
+4370,19/6/2014 17:28,engagement,like_message,Russia,iphone 5
+13466,3/6/2014 10:52,engagement,search_autocomplete,Hong Kong,macbook air
+8866,5/8/2014 8:34,engagement,home_page,United States,dell inspiron desktop
+10310,18/7/2014 11:54,engagement,send_message,Brazil,amazon fire phone
+13067,23/7/2014 4:16,engagement,like_message,United States,lenovo thinkpad
+2171,26/8/2014 7:29,engagement,send_message,United States,asus chromebook
+6622,6/6/2014 10:08,engagement,search_click_result_8,United States,acer aspire notebook
+12548,5/6/2014 13:46,engagement,login,Germany,nokia lumia 635
+12540,16/5/2014 14:20,signup_flow,create_user,Russia,lenovo thinkpad
+9876,4/7/2014 13:22,engagement,search_run,United States,samsung galaxy s4
+8716,26/8/2014 10:28,engagement,search_autocomplete,France,iphone 5
+8740,26/7/2014 9:39,engagement,search_autocomplete,United States,nexus 10
+12688,11/7/2014 18:00,engagement,search_autocomplete,Germany,hp pavilion desktop
+5109,23/8/2014 6:02,engagement,login,United States,dell inspiron desktop
+6261,19/5/2014 13:39,engagement,login,India,iphone 5
+11264,17/7/2014 17:53,engagement,view_inbox,Taiwan,lenovo thinkpad
+5298,7/6/2014 18:28,engagement,home_page,Brazil,asus chromebook
+14726,15/7/2014 12:08,engagement,home_page,United Kingdom,macbook pro
+13433,26/7/2014 6:48,engagement,like_message,United States,dell inspiron notebook
+264,30/5/2014 19:36,engagement,login,Venezuela,samsung galaxy s4
+108,4/7/2014 21:48,engagement,login,Mexico,lenovo thinkpad
+264,5/6/2014 9:23,engagement,login,Venezuela,dell inspiron desktop
+251,29/7/2014 14:32,engagement,login,Argentina,ipad air
+108,8/7/2014 7:43,engagement,login,Mexico,hp pavilion desktop
+264,20/5/2014 17:46,engagement,login,Venezuela,dell inspiron desktop
+251,6/8/2014 15:24,engagement,login,Argentina,macbook air
+238,16/7/2014 14:28,engagement,login,Venezuela,samsung galaxy note
+251,2/8/2014 10:47,engagement,login,Argentina,macbook air
+108,21/7/2014 17:34,engagement,login,Mexico,hp pavilion desktop
+12103,25/6/2014 11:10,engagement,like_message,Argentina,macbook pro
+16170,23/8/2014 18:53,engagement,like_message,Argentina,macbook pro
+12103,19/6/2014 19:45,engagement,home_page,Argentina,macbook pro
+12103,25/6/2014 11:08,engagement,like_message,Argentina,macbook pro
+16170,25/8/2014 13:32,engagement,home_page,Argentina,macbook pro
+16170,22/8/2014 13:33,engagement,home_page,Argentina,macbook pro
+16170,19/8/2014 11:07,engagement,login,Argentina,macbook pro
+12103,25/6/2014 11:07,engagement,login,Argentina,macbook pro
+12103,19/6/2014 19:47,engagement,home_page,Argentina,macbook pro
+12103,18/6/2014 16:00,engagement,search_autocomplete,Argentina,macbook pro
